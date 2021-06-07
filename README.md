@@ -1,6 +1,20 @@
-# wetalk
+# Professional Authentication for Android, IOS and web.
 
-A new Flutter project.
+This is a fully functional Authentication system<br>
+Supports <br>
+email password ||<br>
+Google sign In ||<br>
+Mac sig In ||<br> 
+Twitter Sign|| In<br>
+
+# Have a look at it ...
+
+
+
+
+https://user-images.githubusercontent.com/66123919/121074094-03385000-c7f1-11eb-82d2-0a8f0da410d4.mp4
+
+
 
 ## Getting Started
 

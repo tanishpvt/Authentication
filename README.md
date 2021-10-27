@@ -1,4 +1,4 @@
-DEVEOPS ONGOING SESSION LIVE pratical
+DEVEOPS ONGOING SESSION LIVE 
 
 # Professional Authentication for Android, IOS and web.
 

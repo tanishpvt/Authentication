@@ -1,4 +1,4 @@
-DEVEOPS ONGOING
+DEVEOPS ONGOING SESSION
 
 # Professional Authentication for Android, IOS and web.
 

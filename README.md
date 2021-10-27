@@ -1,4 +1,4 @@
-DEVEOPS ONGOING SESSION LIVE :-
+DEVEOPS  :-
 
 # Professional Authentication for Android, IOS and web.
 

@@ -1,4 +1,3 @@
-DEVEOPS  :-
 
 # Professional Authentication for Android, IOS and web.
 
